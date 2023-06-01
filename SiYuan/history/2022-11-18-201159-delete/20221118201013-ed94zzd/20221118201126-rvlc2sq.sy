@@ -1,0 +1,20 @@
+{
+	"ID": "20221118201126-rvlc2sq",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20221118201126-rvlc2sq",
+		"title": "Untitled",
+		"updated": "20221118201126"
+	},
+	"Children": [
+		{
+			"ID": "20221118201126-zj8gzh4",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221118201126-zj8gzh4",
+				"updated": "20221118201126"
+			}
+		}
+	]
+}

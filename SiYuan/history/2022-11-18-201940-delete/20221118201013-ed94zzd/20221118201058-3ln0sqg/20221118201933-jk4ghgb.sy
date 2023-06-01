@@ -1,0 +1,20 @@
+{
+	"ID": "20221118201933-jk4ghgb",
+	"Spec": "1",
+	"Type": "NodeDocument",
+	"Properties": {
+		"id": "20221118201933-jk4ghgb",
+		"title": "Untitled",
+		"updated": "20221118201933"
+	},
+	"Children": [
+		{
+			"ID": "20221118201933-qux9adb",
+			"Type": "NodeParagraph",
+			"Properties": {
+				"id": "20221118201933-qux9adb",
+				"updated": "20221118201933"
+			}
+		}
+	]
+}
